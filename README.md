@@ -2,8 +2,6 @@
 
 ## 2023-05-15
 
-### du Huan
-
 
 - gelernt in github einzuloggen
 - standard Markdown
